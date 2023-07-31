@@ -2,7 +2,7 @@
 <p align="center">
   <ul>
   <li>🔭 I'm currently a software engineering student at FST MARRAKECH.</li>
-  <li>🌱 I'm currently learning React.js, C# .NET Core, C, Oracle DB, and SQL Server.</li>
+  <li>🌱 I'm currently learning React.js...</li>
   <li>👯 I'm looking for an internship.</li>
   <li>🤔 I'm looking for friends who want to grow together.</li> 
   </ul>

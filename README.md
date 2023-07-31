@@ -10,8 +10,10 @@
 <h3 align="center">Languages:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java">
   <img src="https://img.shields.io/badge/PHP-blue?style=flat&logo=php">
   <img src="https://img.shields.io/badge/C%23-purple?style=flat&logo=c-sharp">
   <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c">
@@ -21,10 +23,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-orange?style=flat&logo=laravel">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap">
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react">
   <img src="https://img.shields.io/badge/Axios-green?style=flat&logo=axios">
-   <img src="https://img.shields.io/badge/.NET%20Core-purple?style=flat&logo=.net">
+  <img src="https://img.shields.io/badge/.NET%20Core-purple?style=flat&logo=.net">
 </p>
+
 
 <h3 align="center">Database Technologies:</h3>
 
@@ -47,10 +51,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessSerrakhi&layout=compact&hide=css&exclude_repo=travesyHotel">
 </p>
-
-<h3 align="center">GitHub Stats:</h3>
+<!-- <h3 align="center">GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YounessSerrakhi&show_icons=true&theme=dark#gh-dark-mode-only">
-</p>
+</p> -->
 

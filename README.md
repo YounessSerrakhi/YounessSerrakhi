@@ -45,7 +45,7 @@
 <h3 align="center">Most Used:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessSerrakhi&layout=compact&hide=css&exclude_repo=Credit_Risk_classification">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessSerrakhi&layout=compact&hide=css,blade&exclude_repo=travesyHotel,Credit_Risk_classification">
 </p>
 <!-- <h3 align="center">GitHub Stats:</h3>
 

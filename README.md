@@ -14,7 +14,9 @@
     <br>💡 Innovating at the intersection of code and infrastructure
   </em>
 </p>
+<br><br>
 <p align="center">
+  <img src="https://img.shields.io/badge/First%20Internship-Full--Stack%20Dev-FF6F61?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="First Internship: Full-Stack Dev">
   <img src="https://img.shields.io/badge/Pfa%20Internship-DevOps%20Role-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Pfa Internship: DevOps Role">
   <img src="https://img.shields.io/badge/Exploring-AWS%20Cloud%20Computing-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Exploring: AWS Cloud Computing">
 </p>
